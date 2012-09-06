@@ -1,0 +1,102 @@
+nro inscriçao   sexo            email       telefone      cidade           escolaridade  meio de comunicação   Ano de Nascimento
+                m               uol         cel           Limeira          1o_Grau       Televisão                          1988
+                f               hotmail     fixo          Piracicaba       2o_Grau       Folheto                            1980
+                f               yahoo       fixo          Limeira          3o_Grau       Televisão                          1982
+                f               ig          fixo          Limeira          1o_Grau       Amigos                             1988
+                f               yahoo       fixo          Piracicaba       1o_Grau       Televisão                          1977
+                m               yahoo       fixo          Limeira          3o_Grau       Banner                             1973
+                m               bol         cel           Piracicaba       2o_Grau       Outros                             1980
+                m               ig          fixo          Limeira          2o_Grau       Televisão                          1984
+                m               hotmsil     cel           Santa Barb       1o_Grau       Outros                             1988
+                m               bol         fixo          Limeira          1o_Grau       Amigos                             1988
+                m               uol         cel           Americana        3o_Grau       Banner                             1988
+                m               gmail       fixo          Santa Barb       1o_Grau       Outros                             1973
+                m               gmail       cel           Americana        1o_Grau       Amigos                             1980
+                f               gmail       cel           Limeira          3o_Grau       Amigos                             1984
+                m               hotmail     fixo          Limeira          2o_Grau       Outros                             1973
+                m               yahoo       fixo          Limeira          3o_Grau       Outros                             1988
+                f               bol         cel           Limeira          1o_Grau       Amigos                             1988
+                m               hotmail     fixo          Piracicaba       1o_Grau       Televisão                          1984
+                m               htomail     fixo          Campinas         1o_Grau       Banner                             1985
+                m               gmail       cel           Limeira          1o_Grau       Amigos                             1984
+                m               hotmail     fixo          Limeira          1o_Grau       Amigos                             1982
+                m               hotmail     fixo          Americana        3o_Grau       Folheto                            1984
+                f               yahoo       fixo          Santa Barb       2o_Grau       Folheto                            1985
+                m               hotmail     cel           Limeira          2o_Grau       Folheto                            1973
+                f               gmail       fixo          Americana        3o_Grau       Outros                             1973
+                m               gmail       fixo          Campinas         1o_Grau       Amigos                             1985
+                f               hotmail     cel           Santa Barb       2o_Grau       Amigos                             1961
+                f               uol         fixo          Limeira          1o_Grau       Amigos                             1973
+                f               hotmail     cel           Americana        1o_Grau       Televisão                          1988
+                f               yahoo       fixo          Santa Barb       3o_Grau       Banner                             1961
+                f               ig          cel           Americana        1o_Grau       Outros                             1980
+                f               yahoo       cel           Limeira          1o_Grau       Televisão                          1988
+                m               yahoo       fixo          Limeira          3o_Grau       Outros                             1984
+                m               bol         fixo          Americana        2o_Grau       Outros                             1980
+                m               ig          cel           Santa Barb       3o_Grau       Outros                             1961
+                m               hotmsil     fixo          Limeira          1o_Grau       Banner                             1977
+                m               bol         fixo          Americana        1o_Grau       Outros                             1984
+                m               uol         cel           Campinas         3o_Grau       Amigos                             1988
+                m               gmail       cel           Santa Barb       2o_Grau       Amigos                             1984
+                m               gmail       cel           Limeira          2o_Grau       Outros                             1988
+                m               gmail       cel           Limeira          3o_Grau       Banner                             1984
+                m               hotmail     fixo          Limeira          1o_Grau       Outros                             1980
+                m               yahoo       cel           Piracicaba       2o_Grau       Amigos                             1961
+                m               bol         fixo          Campinas         1o_Grau       Amigos                             1982
+                f               hotmail     cel           Limeira          1o_Grau       Outros                             1960
+                f               htomail     cel           Limeira          3o_Grau       Folheto                            1988
+                f               gmail       fixo          Americana        3o_Grau       Folheto                            1960
+                f               hotmail     fixo          Santa Barb       1o_Grau       Folheto                            1988
+                m               hotmail     cel           Limeira          1o_Grau       Outros                             1988
+                m               yahoo       fixo          Americana        3o_Grau       Amigos                             1988
+                m               hotmail     fixo          Campinas         2o_Grau       Amigos                             1985
+                m               gmail       cel           Santa Barb       2o_Grau       Amigos                             1973
+                m               gmail       fixo          Limeira          3o_Grau       Televisão                          1984
+                m               hotmail     fixo          Americana        1o_Grau       Banner                             1977
+                f               uol         cel           Santa Barb       2o_Grau       Outros                             1984
+                m               hotmail     fixo          Americana        1o_Grau       Televisão                          1985
+                f               yahoo       fixo          Limeira          1o_Grau       Outros                             1973
+                m               ig          cel           Limeira          3o_Grau       Outros                             1977
+                f               yahoo       fixo          Santa Barb       2o_Grau       Outros                             1984
+                m               yahoo       cel           Limeira          2o_Grau       Amigos                             1988
+                f               bol         fixo          Americana        1o_Grau       Amigos                             1973
+                f               ig          cel           Campinas         1o_Grau       Amigos                             1984
+                f               hotmsil     cel           Santa Barb       3o_Grau       Televisão                          1984
+                f               bol         fixo          Limeira          1o_Grau       Outros                             1985
+                m               uol         fixo          Limeira          1o_Grau       Amigos                             1973
+                m               gmail       cel           Limeira          3o_Grau       Amigos                             1973
+                f               gmail       fixo          Piracicaba       2o_Grau       Amigos                             1980
+                f               gmail       cel           Santa Barb       3o_Grau       Televisão                          1960
+                m               hotmail     cel           Limeira          1o_Grau       Banner                             1985
+                m               yahoo       fixo          Americana        1o_Grau       Amigos                             1960
+                m               bol         cel           Campinas         3o_Grau       Amigos                             1984
+                m               hotmail     fixo          Campinas         1o_Grau       Amigos                             1988
+                f               htomail     cel           Santa Barb       1o_Grau       Televisão                          1984
+                f               gmail       cel           Limeira          3o_Grau       Banner                             1988
+                m               hotmail     fixo          Americana        2o_Grau       Banner                             1988
+                m               hotmail     fixo          Santa Barb       3o_Grau       Banner                             1988
+                f               yahoo       cel           Santa Barb       1o_Grau       Banner                             1973
+                f               hotmail     cel           Santa Barb       2o_Grau       Banner                             1985
+                f               gmail       fixo          Americana        3o_Grau       Banner                             1977
+                f               gmail       cel           Americana        1o_Grau       Amigos                             1979
+                m               hotmail     fixo          Americana        2o_Grau       Amigos                             1974
+                f               uol         cel           Santa Barb       1o_Grau       Televisão                          1988
+                m               hotmail     cel           Campinas         1o_Grau       Televisão                          1980
+                m               yahoo       fixo          Santa Barb       3o_Grau       Televisão                          1960
+                f               ig          fixo          Limeira          3o_Grau       Televisão                          1961
+                f               yahoo       fixo          Americana        1o_Grau       Outros                             1988
+                f               yahoo       cel           Santa Barb       1o_Grau       Outros                             1985
+                m               bol         fixo          Campinas         3o_Grau       Amigos                             1982
+                m               ig          fixo          Campinas         2o_Grau       Amigos                             1977
+                m               hotmsil     cel           Santa Barb       2o_Grau       Amigos                             1977
+                m               bol         fixo          Limeira          2o_Grau       Amigos                             1985
+                f               uol         cel           Americana        3o_Grau       Amigos                             1961
+                m               gmail       fixo          Santa Barb       1o_Grau       Outros                             1985
+                f               gmail       cel           Santa Barb       2o_Grau       Folheto                            1961
+                m               gmail       cel           Limeira          1o_Grau       Folheto                            1982
+                f               hotmail     fixo          Americana        1o_Grau       Amigos                             1961
+                m               yahoo       fixo          Santa Barb       3o_Grau       Amigos                             1988
+                m               bol         cel           Limeira          3o_Grau       Outros                             1974
+                m               hotmail     fixo          Americana        1o_Grau       Folheto                            1985
+                f               bol         cel           Piracicaba       3o_Grau       Folheto                            1980
+                Fim dos registros
